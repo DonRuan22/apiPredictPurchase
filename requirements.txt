@@ -1,7 +1,6 @@
 joblib
 requests
 pandas
-xgboost
+xgboost==0.90
 datetime
-sklearn
 scikit-learn
