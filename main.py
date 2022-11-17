@@ -15,6 +15,7 @@ import pandas as pd
 from datetime import datetime, timedelta,date
 import pickle
 import xgboost
+import sklearn
 
 #order cluster method
 def order_cluster(cluster_field_name, target_field_name,df,ascending):
