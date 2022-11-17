@@ -4,3 +4,4 @@ pandas
 xgboost
 datetime
 sklearn
+scikit-learn
