@@ -14,4 +14,4 @@ CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "80"]
 
 RUN ls
 
-EXPOSE 5055
+EXPOSE 80
