@@ -1,2 +1,6 @@
 joblib
 requests
+pandas
+pickle
+xgboost
+datetime
